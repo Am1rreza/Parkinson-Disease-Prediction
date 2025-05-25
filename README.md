@@ -7,14 +7,10 @@ This project focuses on developing a machine learning model to predict the prese
 * [Project Overview](#project-overview)
 * [Dataset](#dataset)
 * [Workflow](#workflow)
-* [Installation](#installation)
-* [Usage](#usage)
 * [Model Training and Evaluation](#model-training-and-evaluation)
 * [Performance Metrics](#performance-metrics)
 * [Model Comparison](#model-comparison)
 * [Results and Discussion](#results-and-discussion)
-* [Contributing](#contributing)
-* [License](#license)
 
 ## 🌟 Project Overview
 
